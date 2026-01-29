@@ -62,6 +62,7 @@ This project uses Python 3 and the following Python libraries:
   <li>numpy</li>
   <li>matplotlib</li>
   <li>jupyter</li>
+  <li>seaborn</li>
 </ul>
 
 <p>
