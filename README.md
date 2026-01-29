@@ -1,7 +1,7 @@
 <h1>Goal</h1>
 
 <p>
-Analyze League of Legends match data and build a model to predict match outcomes using in-game statistics.
+Analyze League of Legends match data and build a model to predict match outcomes using in-game statistics (focusing on the game objectives).
 </p>
 
 <hr>
