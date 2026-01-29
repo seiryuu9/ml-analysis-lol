@@ -1,7 +1,7 @@
 <h1>Goal</h1>
 
 <p>
-Analyze League of Legends match data and build a model to predict match outcomes using in-game statistics.
+Analyze League of Legends match data and build a model to predict match outcomes using in-game statistics (focusing on the game objectives).
 </p>
 
 <hr>
@@ -62,6 +62,7 @@ This project uses Python 3 and the following Python libraries:
   <li>numpy</li>
   <li>matplotlib</li>
   <li>jupyter</li>
+  <li>seaborn</li>
 </ul>
 
 <p>
