@@ -63,6 +63,7 @@ This project uses Python 3 and the following Python libraries:
   <li>matplotlib</li>
   <li>jupyter</li>
   <li>seaborn</li>
+  <li>scikit-learn</li>
 </ul>
 
 <p>
