@@ -64,6 +64,7 @@ This project uses Python 3 and the following Python libraries:
   <li>jupyter</li>
   <li>seaborn</li>
   <li>scikit-learn</li>
+  <li>joblib</li>
 </ul>
 
 <p>
